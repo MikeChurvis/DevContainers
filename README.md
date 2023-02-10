@@ -1,2 +1,3 @@
 # DevContainers
-A demo for using dev containers in a semi-complex project.
+
+A demo for how to use dev containers in a semi-complex project.
